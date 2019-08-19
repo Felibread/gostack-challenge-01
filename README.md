@@ -22,7 +22,7 @@
 - /projects/{project_id}/tasks - Creates a task inside the project which the id was passed as a route param when a request body with "title" is passed
 
 ```json
-"title: "Become a Full Stack JS Developer!"
+"title": "Become a Full Stack JS Developer!"
 ```
 
 ### UPDATE - PUT
