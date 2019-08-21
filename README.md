@@ -1,4 +1,4 @@
-# <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs" target="_blank">Challenge 01</a>
+# <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-01/blob/master/README.md#desafio-01-conceitos-do-nodejs">Challenge 01</a>
 
 ## API ROUTES
 
